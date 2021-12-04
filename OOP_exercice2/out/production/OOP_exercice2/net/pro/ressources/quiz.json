@@ -1,0 +1,65 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first commerically available computer processor?",
+      "correct_answer": "Intel 4004",
+      "incorrect_answers": [
+        "Intel 486SX",
+        "TMS 1000",
+        "AMD AM386"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is the oldest of these computers by release date?",
+      "correct_answer": "TRS-80",
+      "incorrect_answers": [
+        "Commodore 64",
+        "ZX Spectrum",
+        "Apple 3"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How long is an IPv6 address?",
+      "correct_answer": "128 bits",
+      "incorrect_answers": [
+        "32 bits",
+        "64 bits",
+        "128 bytes"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In computing, what does LAN stand for?",
+      "correct_answer": "Local Area Network",
+      "incorrect_answers": [
+        "Long Antenna Node",
+        "Light Access Node",
+        "Land Address Navigation"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+      "correct_answer": "ADPCM Sampler",
+      "incorrect_answers": [
+        "FM Synthesizer",
+        "Programmable Sound Generator (PSG)",
+        "PCM Sampler"
+      ]
+    }
+  ]
+}

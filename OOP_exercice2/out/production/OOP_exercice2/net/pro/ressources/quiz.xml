@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quiz>
+    <question>
+        <category>Science: Computers</category>
+        <type>multiple</type>
+        <difficulty>medium</difficulty>
+        <question_content>What was the first commerically available computer processor?</question_content>
+        <correct_answer>Intel 4004</correct_answer>
+        <incorrect_answers>Intel 486SX</incorrect_answers>
+        <incorrect_answers>TMS 1000</incorrect_answers>
+        <incorrect_answers>AMD AM386</incorrect_answers>
+    </question>
+    <question>
+        <category>Science: Computers</category>
+        <type>multiple</type>
+        <difficulty>hard</difficulty>
+        <question_content>Which of the following is the oldest of these computers by release date?</question_content>
+        <correct_answer>TRS-80</correct_answer>
+        <incorrect_answers>Commodore 64</incorrect_answers>
+        <incorrect_answers>ZX Spectrum</incorrect_answers>
+        <incorrect_answers>Apple 3</incorrect_answers>
+    </question>
+    <question>
+        <category>Science: Computers</category>
+        <type>multiple</type>
+        <difficulty>easy</difficulty>
+        <question_content>How long is an IPv6 address?</question_content>
+        <correct_answer>128 bits</correct_answer>
+        <incorrect_answers>32 bits</incorrect_answers>
+        <incorrect_answers>64 bits</incorrect_answers>
+        <incorrect_answers>128 bytes</incorrect_answers>
+    </question>
+    <question>
+        <category>Science: Computers</category>
+        <type>multiple</type>
+        <difficulty>easy</difficulty>
+        <question_content>In computing, what does LAN stand for?</question_content>
+        <correct_answer>Local Area Network</correct_answer>
+        <incorrect_answers>Long Antenna Node</incorrect_answers>
+        <incorrect_answers>Light Access Node</incorrect_answers>
+        <incorrect_answers>Land Address Navigation</incorrect_answers>
+    </question>
+    <question>
+        <category>Science: Computers</category>
+        <type>multiple</type>
+        <difficulty>hard</difficulty>
+        <question_content>What type of sound chip does the Super Nintendo Entertainment System (SNES) have?</question_content>
+        <correct_answer>ADPCM Sampler</correct_answer>
+        <incorrect_answers>FM Synthesizer</incorrect_answers>
+        <incorrect_answers>Programmable Sound Generator (PSG)</incorrect_answers>
+        <incorrect_answers>PCM Sampler</incorrect_answers>
+    </question>
+</quiz>
